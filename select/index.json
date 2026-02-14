@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "マシュマリー",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-14T02:49:56.314853Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マシュマリー",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桃井愛莉&初音ミク",
+      "has_synced": true,
+      "path": "select/01_マシュマリー_MORE_MORE_JUMP!_feat._花里みのり&桃井愛莉&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マシュマリー",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/02_マシュマリー_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マシュマリー (feat. 花里みのり&桃井愛莉&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/03_マシュマリー_(feat._花里みのり&桃井愛莉&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "マシュマリー",
+      "artist": "MIMI",
+      "has_synced": true,
+      "path": "select/04_マシュマリー_MIMI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "マシュマリー",
+      "artist": "MIMI feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/05_マシュマリー_MIMI_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "マシュマリー",
+      "artist": "MORE MORE JUMP! (小倉唯, 吉岡茉祐, 降幡愛, 本泉莉奈)",
+      "has_synced": true,
+      "path": "select/06_マシュマリー_MORE_MORE_JUMP!_(小倉唯,_吉岡茉祐,_降幡愛,_本泉莉奈).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "マシュマリー - Marshmary (feat. 花里みのり",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/07_マシュマリー_-_Marshmary_(feat._花里みのり_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "マシュマリー (feat. 花里みのり&桃井愛莉&初音ミク)",
+      "artist": "MIMI",
+      "has_synced": true,
+      "path": "select/08_マシュマリー_(feat._花里みのり&桃井愛莉&初音ミク)_MIMI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "マシュマリー (feat. Hanasato Minori & Momoi Airi & Hatsune Miku)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/09_マシュマリー_(feat._Hanasato_Minori_&_Momoi_Airi_&_Hatsune_Miku)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マシュマリー",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_マシュマリー_MIMI.txt"
+    }
+  ]
+}
